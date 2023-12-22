@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KVERSE7
 - 👀 I’m interested in github
-- 🌱 I’m currently learning c language
+- 🌱 I’m currently learning c++ language
+- i am done with html and css, going for javascript
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me , instagram : kartikk.ig
 
