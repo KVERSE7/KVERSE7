@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KVERSE7
 - 👀 I’m interested in github
 - 🌱 I’m currently learning c++ language
-- i am done with html and css, going for javascript
+- MERN STACK
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me ,Gmail : kartik7code@gmail.com || instagram : kartikk.ig
 
